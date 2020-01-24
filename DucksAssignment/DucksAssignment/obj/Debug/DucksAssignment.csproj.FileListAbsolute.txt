@@ -1,0 +1,14 @@
+C:\Users\nameetpahwa\source\repos\DucksAssignment\DucksAssignment\bin\Debug\DucksAssignment.exe.config
+C:\Users\nameetpahwa\source\repos\DucksAssignment\DucksAssignment\bin\Debug\DucksAssignment.exe
+C:\Users\nameetpahwa\source\repos\DucksAssignment\DucksAssignment\bin\Debug\DucksAssignment.pdb
+C:\Users\nameetpahwa\source\repos\DucksAssignment\DucksAssignment\obj\Debug\DucksAssignment.csprojAssemblyReference.cache
+C:\Users\nameetpahwa\source\repos\DucksAssignment\DucksAssignment\obj\Debug\DucksAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nameetpahwa\source\repos\DucksAssignment\DucksAssignment\obj\Debug\DucksAssignment.exe
+C:\Users\nameetpahwa\source\repos\DucksAssignment\DucksAssignment\obj\Debug\DucksAssignment.pdb
+C:\Users\nameetpahwa\Desktop\DucksAssignment\DucksAssignment\bin\Debug\DucksAssignment.exe.config
+C:\Users\nameetpahwa\Desktop\DucksAssignment\DucksAssignment\bin\Debug\DucksAssignment.exe
+C:\Users\nameetpahwa\Desktop\DucksAssignment\DucksAssignment\bin\Debug\DucksAssignment.pdb
+C:\Users\nameetpahwa\Desktop\DucksAssignment\DucksAssignment\obj\Debug\DucksAssignment.csprojAssemblyReference.cache
+C:\Users\nameetpahwa\Desktop\DucksAssignment\DucksAssignment\obj\Debug\DucksAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nameetpahwa\Desktop\DucksAssignment\DucksAssignment\obj\Debug\DucksAssignment.exe
+C:\Users\nameetpahwa\Desktop\DucksAssignment\DucksAssignment\obj\Debug\DucksAssignment.pdb
